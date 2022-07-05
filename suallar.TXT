@@ -1,0 +1,3 @@
+Hazirki papkaya nece qayidim
+git faylini gore bilmirem
+$git log

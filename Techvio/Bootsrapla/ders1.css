@@ -1,0 +1,63 @@
+*{
+    margin:0px;
+    padding:0px;
+    font-family: 'Dosis', sans-serif;
+    list-style-type:none;   
+    box-sizing:border-box;
+}
+
+.margin{
+    margin-top:30px;    
+}
+
+:root{
+    --sari:#FF9800;
+    --narinci:#ff561d;
+}
+
+a, a:hover{
+    color: var(--narinci);
+    text-decoration: underline;
+}
+
+.IT_solution_Head{
+    width:100%;
+    text-align:center;
+}
+
+.IT_solution_h6{
+    text-transform: uppercase;
+    color: var(--sari);
+}
+
+h2{
+    font-size: 40px;
+    color: #0b0b31;
+    font-weight:800;
+    
+}
+
+h6{
+    font-size: 16px;
+    font-weight: 700;   
+    letter-spacing: 0.5px;   
+}
+.services{
+    padding:20px;
+}
+
+.service_part{
+    padding:20px;    
+    box-shadow: rgba(82, 90, 101, 0.12) 5px 7px 15px 2px;
+    transition: all .8s ease;
+}
+
+.service_part:hover{
+   transform: translateY(-10px);
+}
+
+.service_part:hover .img{
+    transform: skewY(360deg);
+ }
+ 
+
