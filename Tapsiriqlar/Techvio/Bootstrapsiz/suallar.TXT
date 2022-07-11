@@ -1,0 +1,17 @@
+h2-de IT solutions qalin olmadi
+services uzerine gelende sekiller 360 derece firlanmadi
+sehifeni yenileyende sanki nese gorunmek isteyir
+asagidaki kodlar islemedi
+  @media( min-width:768px) and ( max-width:991px){
+            section{
+                grid-template-columns: 2fr;
+            }
+        }
+
+        
+        @media( min-width:992px)  {
+            section{
+                grid-template-columns: 3fr;
+            }
+        }
+

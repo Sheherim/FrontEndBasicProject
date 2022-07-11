@@ -1,3 +1,8 @@
 Hazirki papkaya nece qayidim
 git faylini gore bilmirem
 $git log
+Desktop papkasindan sonra Murada aid papkasina kece bilmirem
+local komputerden online sisteme gonderen komanda islemedi
+
+h2-de IT solutions qalin olmadi
+services uzerine gelende sekiller 360 derece firlanmadi
