@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,500;1,700&display=swap');
+
+html{
+	font-size:10px;
+}
+
+body{
+	width:100vw;
+	height:100vh;
+	}
+	
+.center{
+	text-align:center;
+	vertical-align:center;
+
+	}
+	
+.border{
+	border:1px solid rgba(0, 0, 0, 0.14);
+}
+
+
+
+
+

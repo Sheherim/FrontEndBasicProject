@@ -1,0 +1,13 @@
+    font-family: pf_din_text_cond_promedium,Arial,sans-serif;
+
+saytda pf_din_text_cond_promedium - bu hansi sriftdir
+
+umumi main hisseni body-de nece merkezlesdirim.
+Merkezlesdirme prosesleri bir nece usulla mende bas tutmadi. Esas etibarile align-self:center;
+text-align:center;
+vertical-align:center:usullarindan istifade edirem;
+Merkezlesdirmek ucun asagidaki usuldan istifadeye ustunluk vermirem:
+position:relative;
+position:absolute; top:50%;
+left:50%;
+transform: translate(-50%, -50%);

@@ -1,0 +1,40 @@
+.card{
+	width:95%;
+	font-size:2rem;
+}
+
+img{
+	width:100%;
+	}
+
+.card_font:{
+	font-family:'Open Sans', sans-serif;
+	font-size:4rem;
+	font-weight:bold;
+}
+
+.card-body{
+	height:8.5em;
+}
+
+.foot_bg_color{
+	background-color: rgb(242,242,242);
+}
+
+.foot_text_color{
+	color:rgb(153,153,153);
+}
+
+.body_color{
+	color:rgb(19,49,127);
+}
+
+.pt{
+	padding-top:15%;
+}
+
+.pl{
+	padding-left:3%
+}
+
+
