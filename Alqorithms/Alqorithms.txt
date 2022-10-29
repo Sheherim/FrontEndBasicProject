@@ -1,0 +1,31 @@
+1.
+
+let word="Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
+
+function findStringLength(str){
+    // daxil edilən str string məlumatının neçə xarakterdən ibarət olduğunu return edən metod yazın
+    let character = str.length;
+    return character;
+}
+
+findStringLength(word);
+
+
+2. 
+
+
+Aşağıdakı kodda harada səhv etdim
+
+let word="Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
+
+function findStringLength(str){
+    // daxil edilən str string məlumatının neçə xarakterdən ibarət olduğunu return edən metod yazın
+    let stringLength = str.length;
+   for(let i = 0; i<stringLength; i++){
+       if(str[i] == undefined){
+           str[i] = 0;           
+       };
+       return stringLength;
+   };
+   	
+};
