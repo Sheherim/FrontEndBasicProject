@@ -4,7 +4,7 @@
 
 ## 2. 
 
-Layihə birsəhifəlidir. Header, slideç main hissədən ibarətdir. Main hissəni 2 aside-a bölmək olar. Sağ tərəfdəki aside bir müddət sabit qalır. 
+Layihə birsəhifəlidir. Header, slide, main hissədən ibarətdir. Main hissəni 2 aside-a bölmək olar. Sağ tərəfdəki aside bir müddət sabit qalır. 
 
 ## 3.
 
