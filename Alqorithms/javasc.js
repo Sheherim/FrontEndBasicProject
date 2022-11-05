@@ -187,7 +187,7 @@ for (i in soz){
 4.2.
 //js let arr=[23,12,34,12,30,12,34,89,1,3,0,123,453] verilən array daxilində eyni olan ədədlərdən təkrarlananları silərək sadəcə bir ədədini saxlayın və əldə edilən bütün dəyərləri yeni array şəklində ekrana çap edin. Bu tapşırığın nəticəsində əldə etməli olduğunuz array js yeniArray=[23,12,34,30,89,1,3,0,123,453] olmalıdır.
 
-/* Burada da nəticəni göstərmək üçün console.log-u ara yamalı olduğumu bilmədim. Kodları daha sadə, "loru" dillə bi-bir iza etməyinizi xahiş edirəm. */
+/* Burada da nəticəni göstərmək üçün console.log-u hara yazmalı olduğumu bilmədim. Kodları daha sadə, "loru" dillə bi-bir izah etməyinizi xahiş edirəm. */
 
 let arr=[23,12,34,12,30,12,34,89,1,3,0,123,453];
 let arr2;
